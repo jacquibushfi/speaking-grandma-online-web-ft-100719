@@ -17,7 +17,7 @@ def speak_to_grandma(speak)
      puts "I LOVE YOU TOO PUMPKIN!"
      elsif speak != speak.upcase
        puts "HUH?! SPEAK UP, SONNY!"
-        puts "HUH?! SPEAK UP, SONNY!"
+       puts "HUH?! SPEAK UP, SONNY!"
       else
         puts "NO NOT SINCE 1938!"
     END
